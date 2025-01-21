@@ -1,15 +1,10 @@
-It is a free HTML CSS template by https://templatesjungle.com/
+It is a free HTML CSS template by jagodekor
 
 You can use this template as a starter template and start building as you require.
 
 The code is consistent and can be easily maintained as we have followed a good coding standard. We want everyone to easily understand it and modify it according to their requirement. As the main goal of providing these templates is to give you something to work on before even starting.
 
-Preview URL:
-https://demo.templatesjungle.com/archi/
-
-Get the Full Version here: 
-https://templatesjungle.gumroad.com/l/archi-free-portfolio-html-template
-
+Preview URL: jagodekor.github.io
 
 FREE FOR BOTH PERSONAL AND COMMERCIAL USE
 
@@ -45,31 +40,10 @@ You can contact us to report any bugs and errors in the template. We will try an
 Feel free to let us know about what you want to see in the future downloads. We will definitely give it a thought while creating our next freebie.
 
 
-CREDITS & REFERENCES
-
-https://getbootstrap.com/
-
-Stock Photos
-https://unsplash.com/
-https://www.freepik.com/
-https://www.pexels.com/
-
-Fonts
-Google fonts
-https://fonts.google.com/
-
-Icons
-https://icon-sets.iconify.design/
-
-Bootstrap Framework
-https://getbootstrap.com/
-
-JQuery Plugins
-
-Swiper Slider - https://swiperjs.com/
-Chocolat.js – a Free Lightbox Plugin -http://chocolat.insipi.de/
-Magnific Lightbox - https://github.com/dimsemenov/Magnific-Popup
-
-Thanks for downloading from TemplatesJungle.com !
+https://jagodekor.github.io
+https://jagodekor.blogspot.com
+https://about.me/jagodekor
+https://YouTube.com/@jagodekor
+https://instragram.com/jagodekor
 
 
